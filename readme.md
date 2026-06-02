@@ -8,7 +8,7 @@ A note that structures was too large to house in hit hub: [Download the CIF stru
 
 ```
 ├── metadata        # This is the reference point for linking sequences, structures and submissions together (nipah_metadata.csv) 
-├── sequences/      # fasta sequences 
+├── sequences/      # fasta sequences (in zip form) named after [id]_[name] from metdata
 ├── scripts/        # analysis scripts 
 ├── outputs/        # generated results, figures, and processed files
 └── readme.md
