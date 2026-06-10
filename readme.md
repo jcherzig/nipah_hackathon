@@ -4,7 +4,7 @@ This repository contains code and data from the Nipah binding project of the Gla
 
 ## Repository Structure
 
-A note that structures was too large to house in github: [Download the CIF structure files (.zip)](<https://gla-my.sharepoint.com/:u:/g/personal/kieran_lamb_glasgow_ac_uk/IQAyOtlYSlBxQLYrFixZ-3bnAUh6XSwd8COMAYvYGPhrzS0?e=JSLH1Q>)
+A note that structures were too large to house in GitHub: [Download the CIF structure files (.zip)](<https://gla-my.sharepoint.com/:u:/g/personal/kieran_lamb_glasgow_ac_uk/IQAyOtlYSlBxQLYrFixZ-3bnAUh6XSwd8COMAYvYGPhrzS0?e=JSLH1Q>)
 
 ```
 ├── metadata        # This is the reference point for linking sequences, structures and submissions together (nipah_metadata.csv) 
