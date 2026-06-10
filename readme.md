@@ -1,5 +1,5 @@
 # Nipah Binding Project
-This repository contains code and data from the Nipah binding project of the Glasgow Computational Biology community's 2026 hackathon.
+This repository contains code and data from the [Nipah binding project](<https://proteinbase.com/collections/nipah-binder-competition-results>) of the Glasgow Computational Biology community's 2026 hackathon.
 
 
 ## Repository Structure
